@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1634073349702" clover="3.2.0">
+  <project timestamp="1634073349702" name="All files">
+    <metrics statements="57" coveredstatements="57" conditionals="42" coveredconditionals="39" methods="22" coveredmethods="21" elements="121" coveredelements="117" complexity="0" loc="57" ncloc="57" packages="2" files="5" classes="5"/>
+    <package name="account">
+      <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="13" methods="9" coveredmethods="9"/>
+      <file name="Account.js" path="C:\Users\mario\Desktop\Code-Challenge-Authorizer\src\account\Account.js">
+        <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="13" methods="9" coveredmethods="9"/>
+        <line num="4" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="9" count="91" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="15" count="88" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="22" count="48" type="stmt"/>
+        <line num="23" count="48" type="cond" truecount="3" falsecount="1"/>
+        <line num="24" count="48" type="stmt"/>
+        <line num="25" count="58" type="stmt"/>
+        <line num="26" count="58" type="cond" truecount="4" falsecount="0"/>
+        <line num="27" count="46" type="stmt"/>
+        <line num="31" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="24" type="stmt"/>
+        <line num="34" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="24" type="stmt"/>
+        <line num="37" count="48" type="stmt"/>
+      </file>
+    </package>
+    <package name="transaction">
+      <metrics statements="39" coveredstatements="39" conditionals="26" coveredconditionals="26" methods="13" coveredmethods="12"/>
+      <file name="AccountCreation.js" path="C:\Users\mario\Desktop\Code-Challenge-Authorizer\src\transaction\AccountCreation.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="9" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="22" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="Transaction.js" path="C:\Users\mario\Desktop\Code-Challenge-Authorizer\src\transaction\Transaction.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="3" count="34" type="stmt"/>
+        <line num="4" count="34" type="stmt"/>
+      </file>
+      <file name="TransactionAuthorization.js" path="C:\Users\mario\Desktop\Code-Challenge-Authorizer\src\transaction\TransactionAuthorization.js">
+        <metrics statements="25" coveredstatements="25" conditionals="18" coveredconditionals="18" methods="7" coveredmethods="7"/>
+        <line num="5" count="24" type="stmt"/>
+        <line num="8" count="24" type="stmt"/>
+        <line num="9" count="24" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+        <line num="12" count="24" type="stmt"/>
+        <line num="13" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="16" count="24" type="stmt"/>
+        <line num="25" count="24" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="24" type="cond" truecount="4" falsecount="0"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="40" count="24" type="stmt"/>
+        <line num="41" count="24" type="stmt"/>
+        <line num="42" count="24" type="stmt"/>
+        <line num="43" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="4" type="stmt"/>
+        <line num="48" count="24" type="stmt"/>
+        <line num="49" count="24" type="stmt"/>
+        <line num="50" count="24" type="stmt"/>
+        <line num="51" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="2" type="stmt"/>
+      </file>
+      <file name="TransactionFactory.js" path="C:\Users\mario\Desktop\Code-Challenge-Authorizer\src\transaction\TransactionFactory.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="34" type="stmt"/>
+        <line num="7" count="34" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
